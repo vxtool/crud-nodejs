@@ -3,6 +3,16 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/crud-solutions/crud-nodejs.svg?style=flat-square)](https://github.com/crud-solutions/crud-nodejs/issues)
 
+## Usage
+
+```bash
+mongod
+```
+
+```bash
+npm start
+```
+
 ## Contributing
 
 - Fork it!
