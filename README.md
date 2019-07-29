@@ -1,7 +1,12 @@
 # CRUD Node.js
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/crud-solutions/crud-nodejs.svg?style=flat-square)](https://github.com/crud-solutions/crud-nodejs/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/crud-nodejs.svg)](https://github.com/org-victorinox/crud-nodejs/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/crud-nodejs.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/crud-nodejs.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/crud-nodejs.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/crud-nodejs.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/crud-nodejs/total.svg)
 
 ## Usage
 
@@ -23,7 +28,7 @@ npm start
 
 ## Log
 
-Check [Releases](https://github.com/crud-solutions/crud-nodejs/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/crud-nodejs/releases) for detailed changelog.
 
 ## License
 
